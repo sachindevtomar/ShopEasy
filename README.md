@@ -1,2 +1,2 @@
 # ShopEasy
-Online Shopping Cart
+ShopEasy is a Online Shopping Cart System
