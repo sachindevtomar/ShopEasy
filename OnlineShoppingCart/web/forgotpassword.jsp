@@ -27,7 +27,7 @@
     
       String from = "ShopEasy";//change accordingly
       final String username = "tomarsachindev@gmail.com";//change accordingly
-      final String password = "sachintomar131";//change accordingly
+      final String password = "***********";//change accordingly
 
       String host = "smtp.gmail.com";
 
